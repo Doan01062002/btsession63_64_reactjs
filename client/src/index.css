@@ -1,0 +1,11 @@
+.action-btn{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.img-post{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}

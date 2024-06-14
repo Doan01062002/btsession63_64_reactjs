@@ -1,0 +1,44 @@
+{
+    "manager-post": [
+        {
+            "id": 1,
+            "name": "tổng quan reactjs",
+            "image": "https://d50cmv7hkyx4e.cloudfront.net/2021/07/1_h5UGPzaL1E4dIy_JWDrsAw.png",
+            "create_date": "01/05/2024",
+            "status": "false",
+            "content": "Content"
+        },
+        {
+            "id": 2,
+            "name": "hướng dẫn sử dụng react hooks",
+            "image": "https://reactjs.org/logo-og.png",
+            "create_date": "02/05/2024",
+            "status": "false",
+            "content": "Content for React Hooks"
+        },
+        {
+            "id": 4,
+            "name": "tạo ứng dụng với create-react-app",
+            "image": "https://create-react-app.dev/img/logo.svg",
+            "create_date": "04/05/2024",
+            "status": "false",
+            "content": "Content for Create React App"
+        },
+        {
+            "id": 5,
+            "name": "quản lý state với redux",
+            "image": "https://redux.js.org/img/redux-logo-landscape.png",
+            "create_date": "05/05/2024",
+            "status": "true",
+            "content": "Content for Redux State Management"
+        },
+        {
+            "id": 6,
+            "name": "kiểm tra hiệu suất react với react profiler",
+            "image": "https://reactjs.org/logo-og.png",
+            "create_date": "06/05/2024",
+            "status": "false",
+            "content": "Content for React Profiler"
+        }
+    ]
+}
